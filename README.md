@@ -1,4 +1,5 @@
 # Snake_cpp
+A snake-like game written in cpp in the form of a console application.
 
 ## ! Program written and tested in Dev-C++ 5.11 !
 
